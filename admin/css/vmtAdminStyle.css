@@ -1,0 +1,182 @@
+.mainMenu {
+	margin-top: 20px;
+	width: 100%;
+	display: inline-block;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+}
+
+.shortcodeSettings {
+	display: inline-block;
+	width: 95%;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	border-radius: 10px;
+	border-left: 5px solid #3d94f6;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background: white;
+	color: #000000;
+}
+
+.inputAndTitle {
+	width: 100%;
+	padding-top: 10px;
+	font-weight: 700;
+	font-family: Roboto,Helvetica Neue, sans-serif;
+}
+
+.apiTitle {
+	padding-bottom: 10px;
+}
+
+.apiKeyInput {
+	width: 500px;
+	border: 2px solid #3d94f6 !important;
+	color: #565656 !important;
+}
+
+.roomIdAndTitle {
+	padding-top: 10px;
+	width: 100%;
+	font-weight: 700;
+	font-family: Roboto,Helvetica Neue, sans-serif;
+}
+
+.roomIdTitle {
+	padding-bottom: 10px;
+}
+
+.roomIdInput {
+	width: 500px;
+	border: 2px solid #3d94f6 !important;
+	color: #565656 !important;
+}
+
+.shortcodeSetPhoto {
+	display: inline-block;
+	width: 95%;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	border-left: 5px solid #3d94f6;
+	border-radius: 10px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background: white;
+	color: #000000;
+}
+
+.photoShortcode {
+	padding-top: 10px;
+	width: 100%;
+	font-weight: 700;
+	font-family: Roboto,Helvetica Neue, sans-serif;
+	float: left;
+}
+
+.photoTitle {
+	padding-bottom: 10px;
+}
+
+.photoInput {
+	width: 500px;
+	background: white;
+	border-radius: 4px;
+	border: 2px solid #3d94f6 !important;
+	color: #565656 !important;
+}
+
+.savePhotoForm {
+	width: 100%;
+	padding-top: 10px;
+	float: left;
+}
+
+.photoInputButton {
+	float: left;
+	width: 100px;
+	line-height: 2;
+	border: 1px solid #3d94f6;
+	border-radius: 6px;
+	color: #ffffff;
+	font-weight: 700;
+	background: linear-gradient(180deg,  #3d94f6 5%, #1e62d0);
+	background-color: #3d94f6;
+	cursor: pointer;
+}
+
+.saveApiAndRoomId {
+	padding-top: 10px;
+	width: 100%;
+	font-weight: 700;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+	float: left;
+}
+
+.saveApiAndRoomIdButton {
+	width: 100px;
+	border: 1px solid #3d94f6;
+	color: #ffffff;
+	font-weight: 700;
+	line-height: 2;
+	cursor: pointer;
+	border-radius: 6px;
+	background: linear-gradient(180deg,  #3d94f6 5%, #1e62d0);
+	background-color: #3d94f6;
+}
+
+.checkConectivity {
+	float: left;
+	width: 100%;
+	padding-top: 10px;
+	font-weight: 700;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+}
+
+.checkConectivityButton {
+	width: 100px;
+	font-weight: 700;
+	line-height: 2;
+	border: 1px solid #3d94f6;
+	border-radius: 6px;
+	cursor: pointer;
+	color: #ffffff;
+	background: linear-gradient(180deg,  #3d94f6 5%, #1e62d0);
+	background-color: #3d94f6;
+}
+
+.resetImageBlock {
+	padding-top: 10px;
+	width: 100%;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+	float: left;
+	font-weight: 700;
+	color: #565656 !important;
+}
+
+.resetShortcodePhoto {
+	border: 1px solid #3d94f6;
+	background: linear-gradient(180deg,  #3d94f6 5%, #1e62d0);
+	background-color: #3d94f6;
+	border-radius: 6px;
+	color: #ffffff;
+	font-weight: 700;
+	width: 100px;
+	line-height: 2;
+	cursor: pointer;
+}
+
+.instructions {
+	width: 95%;
+	padding-top: 10px;
+	font-family: Roboto,Helvetica Neue,sans-serif;
+	float: left;
+	border-left: 5px solid #3d94f6;
+	margin-top: 20px;
+	padding-left: 10px;
+	background: white;
+	padding-bottom: 10px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	border-radius: 10px;
+}
